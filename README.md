@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @suannchong
-- 👀 I’m interested in machine learning, data science and high performance computing
-- 🌱 I’m currently learning MLOps 
 - 📫 How to reach me: suannchong11@gmail.com
 
 <!---
